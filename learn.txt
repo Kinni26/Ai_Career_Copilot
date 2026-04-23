@@ -1,0 +1,16 @@
+venv
+
+all projects same packages
+
+A > Flask2
+B flask3
+
+with new
+
+pip install flask sqlalchemy pymysql openai PyPDF2 python-docx
+
+steps:-
+1. setup
+2.database connection --
+3. TIDB --- large scale handle
+4.ssl -- for secure connection
